@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:shendurnikarjayesh2001@gmail.com"><img src="https://img.shields.io/badge/Email-shendurnikarjayesh2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jayesh-shendurnikar-830623226/"><img src="https://img.shields.io/badge/LinkedIn-jayesh-shendurnikar-830623226?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jayesh shendurnikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh shendurnikar" height="30" width="40" /></a>
   <a href="https://github.com/jayesh-shendurnikar-2001/jayesh-shendurnikar-2001/"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
