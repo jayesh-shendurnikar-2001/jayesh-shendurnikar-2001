@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+%26+Stack+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Devloper+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -106,6 +106,7 @@ Results-driven Full Stack Developer with 1.5+ years of hands-on experience desig
 
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-shendurnikar-2001&" alt="jayesh-shendurnikar-2001" /></p>
 
 
 ##  Let's Connect!
