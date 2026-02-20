@@ -98,8 +98,9 @@ Software Developer
 
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-shendurnikar-2001" alt="jayesh-shendurnikar-2001" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh-shendurnikar-2001" />
+</p>
 
 ##  Let's Connect!
 
