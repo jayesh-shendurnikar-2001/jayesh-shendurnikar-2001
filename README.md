@@ -22,13 +22,19 @@ Results-driven Full Stack Developer with 1.5+ years of hands-on experience desig
 
 ##  Professional Experience
 
-### Software Developer
-**09/2024 – 01/2026   📌 Mumbai, Maharashtra
-•	Delivered and maintained 5+ production web applications using PHP, JavaScript, and SQL, serving hundreds of active users.
-•	Integrated the Razorpay payment gateway, reducing transaction failure rates by 25%.
-•	Improved overall application performance by optimizing complex SQL queries and database indexing.
-•	Resolved critical production bugs and added new features, enhancing system stability and client satisfaction.
-•	Collaborated with internal teams to gather requirements, plan sprints, and deliver projects on schedule.
+Software Developer
+
+09/2024 – 01/2026 | 📌 Mumbai, Maharashtra
+
+Delivered and maintained 5+ production web applications using PHP, JavaScript, and SQL.
+
+Integrated Razorpay payment gateway, reducing transaction failure rates by 25%.
+
+Improved performance by optimizing SQL queries and database indexing.
+
+Resolved production bugs and added new features.
+
+Collaborated with teams to deliver projects on schedule.
 
 ---
 
@@ -68,20 +74,6 @@ Results-driven Full Stack Developer with 1.5+ years of hands-on experience desig
 
 
 ## 📈 GitHub Stats
-
-<!-- <div align="center">
-  
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayesh-shendurnikar-2001&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayesh-shendurnikar-2001&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayesh-shendurnikar-2001&theme=tokyonight)
-
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayesh-shendurnikar-2001&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayesh-shendurnikar-2001&theme=tokyonight)
-
-</div> -->
 
 <div align="center">
 
