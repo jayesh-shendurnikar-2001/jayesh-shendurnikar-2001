@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="mailto:shendurnikarjayesh2001@gmail.com"><img src="https://img.shields.io/badge/Email-saraswatprateek0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jayesh-shendurnikar-830623226/"><img src="https://img.shields.io/badge/LinkedIn-Prateek%20Saraswat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://github.com/Prateek-saraswat](https://github.com/jayesh-shendurnikar-2001/jayesh-shendurnikar-2001/"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:shendurnikarjayesh2001@gmail.com"><img src="https://img.shields.io/badge/Email-shendurnikarjayesh2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jayesh-shendurnikar-830623226/"><img src="https://img.shields.io/badge/LinkedIn-jayesh-shendurnikar-830623226?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/jayesh-shendurnikar-2001/jayesh-shendurnikar-2001/"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
