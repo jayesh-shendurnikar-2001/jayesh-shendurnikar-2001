@@ -17,11 +17,6 @@
 
 Results-driven Full Stack Developer with 1.5+ years of hands-on experience designing and deploying production-ready web applications. Proficient in Java, Spring Boot, and the MERN stack with a strong foundation in REST API design, database optimization, and cloud deployment. Adept at building secure, scalable systems that deliver exceptional user experiences. Proven ability to collaborate with cross-functional teams and consistently ship reliable software on time.
 
-
----
-
----
-
 ##  Tech Stack
 
 ### Frontend
