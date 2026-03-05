@@ -20,22 +20,6 @@ Results-driven Full Stack Developer with 1.5+ years of hands-on experience desig
 
 ---
 
-##  Professional Experience
-
-Software Developer
-
-09/2024 – 01/2026 | 📌 Mumbai, Maharashtra
-
-- Delivered and maintained 5+ production web applications using PHP, JavaScript, and SQL.
-
-- Integrated Razorpay payment gateway, reducing transaction failure rates by 25%.
-
-- Improved performance by optimizing SQL queries and database indexing.
-
-- Resolved production bugs and added new features.
-
-- Collaborated with teams to deliver projects on schedule.
-
 ---
 
 ##  Tech Stack
