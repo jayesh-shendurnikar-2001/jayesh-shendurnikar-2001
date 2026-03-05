@@ -93,8 +93,11 @@ Results-driven Full Stack Developer with 1.5+ years of hands-on experience desig
 
 I'm always open to interesting conversations, collaboration opportunities, and discussing the latest in tech and AI!
 
-<a href="mailto:shendurnikarjayesh2001@gmail.com?subject=Hello%20Jayesh">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:shendurnikarjayesh2001@gmail.com?subject=Hello%20Jayesh" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email"
+  />
 </a>
   <a href="https://www.linkedin.com/in/jayesh-shendurnikar-830623226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
